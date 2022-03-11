@@ -3,7 +3,7 @@ Deployment the React Cites app with Tailwind Css, vite, localstorage, Responsive
 
 # This is a project that contains the foundations that allow me to learn and practice react js
 
-## View the app on: [https://practical-wing-3f3a21.netlify.app/](https://practical-wing-3f3a21.netlify.app/)
+## View the app on: [https://pedantic-newton-651cdc.netlify.app/](https://pedantic-newton-651cdc.netlify.app/)
 
 ![Cites App](https://user-images.githubusercontent.com/45151760/152033786-48a3b688-8131-462b-9256-51a805f85486.png)
 
